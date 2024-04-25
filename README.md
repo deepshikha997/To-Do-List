@@ -1,10 +1,10 @@
-# Task-Check
+# To Do List
 Multiple TodoList for each day, where the daily task can be easily added and deleted easily.
 
 
-<div align="center">
-   <a href="https://ibb.co/xfmj26K"><img src="[todolist](https://github.com/deepshikha997/To-Do-List/assets/91555549/0398c191-8847-44c4-b961-58a4983e3791)" alt="todolist" border="0"></a>
-</div>
+   ![todolist](https://github.com/deepshikha997/To-Do-List/assets/91555549/98a0ea07-26f3-426d-866e-b86efa5ec5e2)
+
+
 
 ### Instructions to run on local machine (Windows)
     First Clone the project 
